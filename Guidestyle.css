@@ -1,0 +1,50 @@
+#main-part {
+    position: relative;
+    width: 100%;
+    height: 150px; 
+    border: 1px solid #ccc; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.logo {
+    display: block;
+    margin: 0 auto;
+}
+
+.image-container {
+    margin-top: 5px; 
+    position: relative;
+    gap: 30px; 
+}
+
+
+.question {
+    color: black;
+    display: block;
+    font-size: 15px;
+    margin: 15px 400px 5px;
+    width: 40%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    
+    
+}
+.answer {
+    display: none;
+    font-size: 15px;
+    margin: 15px 400px 5px;
+    width: 40%;
+    text-align: center;
+    
+}
+.plus{
+    border: 0px;
+    padding: 20px;
+    margin-left: 10px;
+    
+}
+

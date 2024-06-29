@@ -1,0 +1,42 @@
+
+.btn{
+    background-color: white;
+    margin-right: 15px;
+    border-color: gray;
+}
+
+.nav-link{
+    margin-left: 45px;
+
+}
+
+.btn:hover{
+    background-color:black ;
+    color: white;
+}
+.dropdown-item:hover{
+    background-color:black ;
+    color: white;
+}
+.search-container {
+    display: flex;
+    align-items: center;
+    margin-left: 55px; 
+
+}
+
+.search-container form {
+    display: flex;
+    align-items: center;
+}
+
+.search-container input[type="text"] {
+    padding: 8px;
+    border: none;
+    margin-right: 4px;
+}
+
+
+
+  
+  
